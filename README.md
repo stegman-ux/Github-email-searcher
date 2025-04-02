@@ -2,7 +2,7 @@
 
 - The person must have at least one public repository 🏠
 - The tool will **not** work if the person has enabled the option to hide their email 🔒
-- 
+  
 ## How to use this tool? 🤔
 
 1. First, run `setup.py` ⚙️
